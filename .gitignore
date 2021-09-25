@@ -1,0 +1,7 @@
+# IDE files
+.idea/
+
+# executables
+out/
+
+
